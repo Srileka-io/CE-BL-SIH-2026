@@ -1,0 +1,4 @@
+layer,total_matches,inliers,inlier_ratio,rmse
+Layer 1 - LoFTR,52,8,0.154,1.791
+Layer 2 - SIFT,0,0,0.0,
+Layer 3 - Grid Resample,12,5,0.417,0.715
